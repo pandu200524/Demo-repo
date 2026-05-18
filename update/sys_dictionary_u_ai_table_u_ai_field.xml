@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_dictionary">
+    <sys_dictionary action="INSERT_OR_UPDATE">
+        <name>u_ai_table</name>
+        <element>u_ai_field</element>
+        <label>AI Field</label>
+        <type>string</type>
+        <max_length>100</max_length>
+        <sys_id>b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7</sys_id>
+        <sys_created_on>2026-05-18 15:29:00</sys_created_on>
+        <sys_updated_on>2026-05-18 15:29:00</sys_updated_on>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package/>
+        <sys_scope/>
+        <table_name>u_ai_table</table_name>
+        <column_label>AI Field</column_label>
+        <internal_type>string</internal_type>
+        <active>true</active>
+        <array>false</array>
+        <array_element>false</array_element>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice/>
+        <choice_field/>
+        <column_name>u_ai_field</column_name>
+        <default_value/>
+        <defaultsort/>
+        <depend_on/>
+        <dependent/>
+        <display>false</display>
+        <dynamic_default/>
+        <dynamic_ref_qual/>
+        <element_reference/>
+        <foreign_key/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <next_element/>
+        <primary>false</primary>
+        <read_access>true</read_access>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <staged>false</staged>
+        <sys_update_name>sys_dictionary_u_ai_table_u_ai_field</sys_update_name>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dynamic_default>false</use_dynamic_default>
+        <virtual>false</virtual>
+        <widget/>
+        <write_access>true</write_access>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>

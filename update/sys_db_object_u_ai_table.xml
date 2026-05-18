@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <name>u_ai_table</name>
+        <label>AI Table</label>
+        <sys_id>a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6</sys_id>
+        <sys_created_on>2026-05-18 15:29:00</sys_created_on>
+        <sys_updated_on>2026-05-18 15:29:00</sys_updated_on>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <super_class/>
+        <sys_created_by>system</sys_created_by>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package/>
+        <sys_scope/>
+        <access>public</access>
+        <create_access>true</create_access>
+        <delete_access>true</delete_access>
+        <read_access>true</read_access>
+        <update_access>true</update_access>
+        <is_extendable>false</is_extendable>
+        <dynamic_creation_script/>
+        <dynamic_default_script/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access_controls>true</delete_access_controls>
+        <read_access_controls>true</read_access_controls>
+        <update_access_controls>true</update_access_controls>
+        <user_role/>
+        <auto_join>false</auto_join>
+        <numbering_strategy/>
+        <label_plural>AI Tables</label_plural>
+        <sys_update_name>sys_db_object_u_ai_table</sys_update_name>
+    </sys_db_object>
+</record_update>
