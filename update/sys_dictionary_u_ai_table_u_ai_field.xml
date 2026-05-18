@@ -1,4 +1,3 @@
-<sys_scope display_value="Demo app">x_1919698_demo_app</sys_scope>
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_dictionary">
     <sys_dictionary action="INSERT_OR_UPDATE">
@@ -15,7 +14,7 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_mod_count>0</sys_mod_count>
         <sys_package/>
-        <sys_scope/>
+        <sys_scope display_value="Demo app">x_1919698_demo_app</sys_scope>
         <table_name>u_ai_table</table_name>
         <column_label>AI Field</column_label>
         <internal_type>string</internal_type>
