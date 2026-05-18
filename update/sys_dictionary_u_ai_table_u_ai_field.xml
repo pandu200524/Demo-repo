@@ -1,3 +1,4 @@
+<sys_scope display_value="Demo app">x_1919698_demo_app</sys_scope>
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_dictionary">
     <sys_dictionary action="INSERT_OR_UPDATE">
